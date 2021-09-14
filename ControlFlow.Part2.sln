@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow.Part2", "ControlFlow.Part2\ControlFlow.Part2.csproj", "{F1A8379E-73FE-48EB-9D77-99851024C703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram-Age-Checker", "..\..\titpe21\Instagram-Age-Checker\Instagram-Age-Checker.csproj", "{9518EBB6-C2F8-4A3B-9BFB-352B4BA752E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{29C2CBDF-FFE9-4D44-A1CD-E0B57C3D277C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsAndConsonants", "VowelsAndConsonants\VowelsAndConsonants.csproj", "{2DDAFC31-8325-4B91-9F1C-3555653A23A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1A8379E-73FE-48EB-9D77-99851024C703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A8379E-73FE-48EB-9D77-99851024C703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A8379E-73FE-48EB-9D77-99851024C703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A8379E-73FE-48EB-9D77-99851024C703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9518EBB6-C2F8-4A3B-9BFB-352B4BA752E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9518EBB6-C2F8-4A3B-9BFB-352B4BA752E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9518EBB6-C2F8-4A3B-9BFB-352B4BA752E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9518EBB6-C2F8-4A3B-9BFB-352B4BA752E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C2CBDF-FFE9-4D44-A1CD-E0B57C3D277C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C2CBDF-FFE9-4D44-A1CD-E0B57C3D277C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C2CBDF-FFE9-4D44-A1CD-E0B57C3D277C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C2CBDF-FFE9-4D44-A1CD-E0B57C3D277C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDAFC31-8325-4B91-9F1C-3555653A23A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDAFC31-8325-4B91-9F1C-3555653A23A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDAFC31-8325-4B91-9F1C-3555653A23A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDAFC31-8325-4B91-9F1C-3555653A23A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5E60746-7EDB-4E10-9802-2E178EE36244}
+	EndGlobalSection
+EndGlobal
